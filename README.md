@@ -1,3 +1,1 @@
-"# khattamicah.online" 
-"# khattamicah.online" 
-"# khattamicah.online" 
+Have we worked out the kinks nicks yet
