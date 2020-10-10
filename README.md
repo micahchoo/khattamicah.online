@@ -1,4 +1,4 @@
-<a href="euzxql.html" title="Carefull Collectives and their Care Practices">Carefull Collectives and their Care Practices</a> 
+<a href="euzxql_files/text/titlepage.xhtml" title="Carefull Collectives and their Care Practices">Carefull Collectives and their Care Practices</a> 
 <p>
 This is my Final Year Thesis about Care Practices in a few collectives.
 </p>
