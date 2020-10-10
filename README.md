@@ -12,7 +12,7 @@ This is my Final Year Thesis about Care Practices in a few collectives.
 <script async src="https://hypothes.is/embed.js"></script>
 <p></p>
 <div id="retainable-rss-embed" 
-data-rss="https://medium.com/micah-alex"
+data-rss="https://medium.com/@micahalex"
 data-maxcols="3" 
 data-layout="grid" 
 data-poststyle="inline" 
