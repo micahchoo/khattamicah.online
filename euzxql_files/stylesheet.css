@@ -1,163 +1,83 @@
-.calibre {
-    display: block;
-    font-size: 1em;
-    margin-bottom: 0;
-    margin-left: 5pt;
-    margin-right: 5pt;
-    margin-top: 0;
-    padding-bottom: 0;
-    padding-left: 0;
-    padding-right: 0;
-    padding-top: 0;
-    text-align: center
-    }
-.calibre1 {
-    display: block
-    }
-.calibre2 {
-    display: block;
-    font-size: 1em;
-    margin-bottom: 0;
-    margin-left: 5pt;
-    margin-right: 5pt;
-    margin-top: 0;
-    padding-left: 0;
-    padding-right: 0
-    }
-.calibre3 {
-    display: block;
-    font-size: 1.66667em;
-    font-weight: bold;
-    line-height: 1.2;
-    margin-bottom: 0.83em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 0.83em
-    }
-.calibre4 {
-    display: list-item;
-    list-style-type: none;
-    margin-left: 0;
-    padding-left: 2em
-    }
-.calibre5 {
-    text-decoration: none
-    }
-.calibre6 {
-    border-collapse: separate;
-    border-spacing: 2px;
-    display: table;
-    margin-bottom: 0;
-    margin-top: 0;
-    text-indent: 0
-    }
-.calibre7 {
-    display: table-row-group;
-    vertical-align: middle
-    }
-.calibre8 {
-    display: table-row;
-    vertical-align: inherit
-    }
-.calibre9 {
-    display: table-cell;
-    padding-bottom: 1px;
-    padding-left: 1px;
-    padding-right: 1px;
-    padding-top: 1px;
-    text-align: inherit;
-    vertical-align: inherit
-    }
-.calibre10 {
-    display: block;
-    margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1em
-    }
-.calibre11 {
-    display: block;
-    font-size: 2em;
-    font-weight: bold;
-    line-height: 1.2;
-    margin-bottom: 0.67em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 0.67em
-    }
-.calibre12 {
-    display: block;
-    margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1em;
-    text-align: right
-    }
-.calibre13 {
-    font-size: 0.75em
-    }
-.calibre14 {
-    display: table-cell;
-    padding-bottom: 1px;
-    padding-left: 1px;
-    padding-right: 1px;
-    padding-top: 1px;
-    text-align: right;
-    vertical-align: inherit
-    }
-.calibre15 {
-    height: 22px;
-    margin-left: 3px;
-    vertical-align: text-bottom;
-    width: auto
-    }
-.calibre16 {
-    font-weight: bold
-    }
-.calibre17 {
-    font-style: italic
-    }
-.calibre18 {
-    height: auto;
-    width: 100%
-    }
-.calibre19 {
-    height: auto;
-    width: 110%
-    }
-.calibre20 {
-    display: list-item
-    }
-.calibre21 {
-    font-size: 0.75em;
-    line-height: normal;
-    vertical-align: super
-    }
-.calibre22 {
-    display: block;
-    font-size: 1.29167em;
-    font-weight: bold;
-    line-height: 1.2;
-    margin-bottom: 1em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1em
-    }
-.calibre23 {
-    display: block;
-    font-weight: bold;
-    margin-bottom: 1.33em;
-    margin-left: 0;
-    margin-right: 0;
-    margin-top: 1.33em
-    }
-.calibre24 {
-    color: rgb(0, 85, 255)
-    }
-.calibre25 {
-    height: auto;
-    width: auto
-    }
+@page {margin: 10px;}
+
+/*===Reset code to prevent cross-reader strangeness===*/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video
+{
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+vertical-align: baseline;
+}
+body
+{
+text-align: justify;
+line-height: 120%;
+}
+h1
+{
+text-indent: 0;
+text-align: center;
+margin: 100px 0 0 0;
+font-size: 2.0em;
+font-weight: bold;
+page-break-before: always;
+line-height: 150%; /*gets squished otherwise on ADE */
+}
+
+h2
+{
+text-indent: 0;
+text-align: center;
+margin: 50px 0 0 0;
+font-size: 1.5em;
+font-weight: bold;
+page-break-before: always;
+line-height: 135%; /*get squished otherwise on ADE */
+}
+
+h3
+{
+text-indent: 0;
+text-align: left;
+font-size: 1.4em;
+font-weight: bold;
+}
+
+h4
+{
+text-indent: 0;
+text-align: left;
+font-size: 1.2em;
+font-weight: bold;
+}
+
+h5
+{
+text-indent: 0;
+text-align: left;
+font-size: 1.1em;
+font-weight: bold;
+}
+
+h6
+{
+text-indent: 0;
+text-align: left;
+font-size: 1.0em;
+font-weight: bold;
+}
+
+/* block type paragraph for non-fiction* /
+/*
+p
+{
+text-indent: 0;
+margin: 1.0em 0 0 0;
+widows: 2;
+orphans: 2;
+}
+*/
 .caption {
     color: #a0a0a0;
     display: block;
@@ -177,6 +97,7 @@
     margin-top: 1em;
     page-break-after: always
     }
+	
 .footnote {
     border-bottom-color: #32a1ce;
     border-bottom-style: double;
@@ -274,7 +195,4 @@
     margin-left: 2em;
     margin-right: 0;
     margin-top: 1em
-    }
-.pcalibre:hover {
-    color: red
     }
