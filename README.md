@@ -28,4 +28,5 @@ data-readmore="Read the rest"
 data-buttonclass="btn btn-primary" 
 data-offset="-100"></div>
 
-<div class="container"> <iframe class="iframe-class" src=”https://www.youtube.com/embed/videoseries?list=PLrxU80wlxtw0ruWSwgs7u56LMnod5ByM8” frameborder=”0″ allow=”accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture” allowfullscreen></iframe></div>
+<div class="container"> <iframe class="iframe-class" width="560" height="315" src=”https://www.youtube.com/embed/videoseries?list=PLrxU80wlxtw0ruWSwgs7u56LMnod5ByM8” frameborder=”0″ allow=”accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture” allowfullscreen></iframe></div>
+ 
