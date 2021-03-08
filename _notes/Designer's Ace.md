@@ -25,7 +25,7 @@ Serial Number | Task
 9	|Make a comic about any incident in your life                        
 10	|Observe different objects and create a story about them                 
 
-We drew these tasks by clustering the traits that a community of designers said that a designer must possess 
+We drew these tasks by clustering the traits that a community of designers said that a designer must possess
 
 Sr. No. | Traits | Our Definitions
 ------  | ------ | ------
@@ -48,4 +48,3 @@ Symbol | Archetypes | Our Definitions
 
 People Involved: @DarpanaNaik, @KiranSabnis, @Anagha Rewalkar, @VivekShinde, @MicahAlex
 My contribution: #Designtasks, #QualitativeResearch, #Prototyping, #playsystem
-
