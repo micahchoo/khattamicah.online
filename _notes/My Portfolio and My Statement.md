@@ -16,4 +16,5 @@ This is list of projects I have worked on
 - [[Speculative Storytelling in Wayanad]]
 - [[Carpooling Unalone - Karwaan]]
 - [[Making The Invisible Visible Around An RO Plant]]
+- [[Compost Magazine - Technofutures from Bidar]]
 - [My Art](/art/)

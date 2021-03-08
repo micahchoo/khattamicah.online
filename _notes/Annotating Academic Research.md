@@ -1,10 +1,11 @@
 ---
-title: Annotating Academic Research 
-tags: list 
+title: Annotating Academic Research
+tags: list
 toc: true
 season: spring
 ---
 
+Tools for Academic research that move it beyond its cult of personality to embrace collective science? 
 
 # Annotating Academic Research
 ### Present Tools that extend the capabilities for pdf annotations
@@ -17,26 +18,26 @@ season: spring
 
 -------------------
 
-### Annotating 
+### Annotating
 * https://www.liquidtext.net `Annotation on Text`
 * https://metal-profuse-arch.glitch.me `experiment` `AoI`
 *  [Mirador](https://mirador-dev.netlify.app/__tests__/integration/mirador/)`Annotation on Image`
 * https://voicethread.com `annotation on video`
-* [Loom](https://www.loom.com)`Voice annotation on Screengrabbed video` 
+* [Loom](https://www.loom.com)`Voice annotation on Screengrabbed video`
 * https://web.hypothes.is
 * https://getmemex.com
 * https://ant.umn.edu/documentation
 * https://frametrail.org/
 * https://chi-lin.com/projects/react-annotation-tool
 * https://medialab.sciencespo.fr/en/tools/
-* 
+*
 
 
 
 
 ------
 
-### Mapping and Prototyping 
+### Mapping and Prototyping
 * https://littlesis.org/oligrapher `political influence`
 * https://miro.com `tool` `whiteboarding` `prototyping`
 * https://figma.com `prototyping interactions`
@@ -58,4 +59,4 @@ Other people's thoughts about reimagining the research interface with the public
 * https://www.researchgate.net/publication/314279386_The_transformation_of_the_academic_publishing_market_multiple_perspectives_on_innovation
 
 ------
-tags [[Narratives- Map of Concepts]] 
+tags [[Narratives- Map of Concepts]]
