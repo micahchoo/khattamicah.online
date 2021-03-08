@@ -1,6 +1,6 @@
 ---
 title: Annotating Academic Research 
-tags: List 
+tags: list 
 toc: true
 season: spring
 ---
@@ -58,4 +58,4 @@ Other people's thoughts about reimagining the research interface with the public
 * https://www.researchgate.net/publication/314279386_The_transformation_of_the_academic_publishing_market_multiple_perspectives_on_innovation
 
 ------
-tags [[moc.Narratives]] 
+tags [[Narratives- Map of Concepts]] 

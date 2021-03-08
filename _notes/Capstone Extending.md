@@ -1,6 +1,6 @@
 ---
 title: Capstone Extending 
-tags: Internal
+tags: internal
 toc: false
 season: autumn
 ---
@@ -21,4 +21,4 @@ The writing process started off with a simple outline which I then followed with
 After talking to shreyas, I decided to strucure it the way that I would, without academic boundaries. Is there a translation possible between the two?
 Even then my outline is now based the questions, and that allows for a little bit of Non-Linear Storytelling
 
-[[moc.Narratives]]
+[[Narratives- Map of Concepts]]

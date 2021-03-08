@@ -1,11 +1,11 @@
 ---
 title: Coauthoring and Spatialising Representations of Events and Thoughts 
-tags: Internal SpatialThoughts CoAuthoring
-toc: true
-season: autumn
+tags: internal spatial coauthoring
+toc: false
+season: automn
 ---
 
-* Is compost a way of putting [[int.Thoughts about the Capstone]] into context
+* Is compost a way of putting [[Capstone Extending]] into context
 	* The co-authoring bit comes from archetypes of care
 	* Archetypes come from the roles that people have played in collectives
 	* Does this come closer to co-authoring as the only way a collective puts things out there?

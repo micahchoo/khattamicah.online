@@ -6,7 +6,7 @@ season: winter
 ---
 * Bug
 * Screen
-* [[prj.Battery]]
+* [[Battery - meanings through time and onward]]
 * Charge-ing (re-)
 * Code
 * 

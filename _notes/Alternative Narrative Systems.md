@@ -1,7 +1,7 @@
 ---
 title: Alternative Narrative Systems
-tags: List 
-toc: true
+tags: list 
+toc: false
 season: winter
 ---
 

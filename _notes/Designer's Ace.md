@@ -1,6 +1,6 @@
 ---
 title: Designer's Ace
-tags: Portfolio project
+tags: portfolio project
 toc: false
 season: spring
 ---

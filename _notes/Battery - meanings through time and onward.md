@@ -1,6 +1,6 @@
 ---
-title: "Battery - meanings through time and onward"
-tags: Bank reframe prompt
+title: Battery - meanings through time and onward
+tags: bank reframe prompt
 toc: true
 season: spring
 ---

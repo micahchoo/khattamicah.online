@@ -1,7 +1,7 @@
 ---
-title: Dewey and Taoism: Teleology and Art
-tags: Bank
-toc: true
+title: Dewey and Taoism- Teleology and Art
+tags: bank
+toc: false
 season: winter
 ---
 

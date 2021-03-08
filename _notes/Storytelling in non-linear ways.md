@@ -1,7 +1,7 @@
 ---
 title: Storytelling in non-linear ways
 tags: reframe narratives banklist
-toc: false
+toc: true
 season: summer
 ---
 # Storytelling in non-linear ways

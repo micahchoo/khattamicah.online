@@ -1,7 +1,7 @@
 ---
 title: Sahitya Akademi 1992 Seminar Transcripts
-tags: Bank
-toc: true
+tags: bank
+toc: false
 season: winter
 ---
 

@@ -1,9 +1,9 @@
 
 ---
-title: ETHNOGRAPHY AND ETHNOGRAPHERS OF AND IN EDUCATION: A SITUATED PERSPECTIVE
-tags: Bank
-toc: true
-season: autumn
+title: ETHNOGRAPHY AND ETHNOGRAPHERS OF AND IN EDUCATION- A SITUATED PERSPECTIVE
+tags: bank
+toc: false
+season: automn
 ---
 
 
@@ -19,7 +19,7 @@ Vanderbilt University
 
 * Ethnography allows the observer to make judgements on why actors and processes are as they are
 
-## [[int.Thoughts about the Capstone#Does it need to fit into a particular domain]]
+## [[Capstone Extending#Does it need to fit into a particular domain]]
 ### Design Anthropology defining thinking through making of artefacts and valuable 'things'? the logic-in-use
 		* "For example, psychological anthropology has emphasized the importance of the systematic observation and recording of data, the collection of life and family histories, the use of adaptations of psychologist's assessment techniques,
 ### how much is the relation between these two for my capstone

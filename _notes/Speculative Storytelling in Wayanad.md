@@ -1,6 +1,6 @@
 ---
 title: Speculative Storytelling in Wayanad
-tags: Portfolio project
+tags: portfolio project
 toc: false
 season: spring
 ---

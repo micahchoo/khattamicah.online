@@ -1,8 +1,8 @@
 ---
 title: Names of different Literary Forms from Asia
-tags: List 
-toc: true
-season: autumn
+tags: list 
+toc: false
+season: automn
 ---
 
 
