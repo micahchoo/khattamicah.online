@@ -5,7 +5,7 @@ toc: false
 season: summer
 ---
 ## Hi, My name is Micah
-I might be a designer. Or a researcher? or something else. 
+I might be a designer. Or a researcher? or something else.
 
 I hold on to different interests like #music, #movies, #videoessays, #linguisticidiosyncracies, #psychology, #philosophies, #fantasy, #science-fiction and many more. I would like to find a career that helps me borrow from all these places.
 
