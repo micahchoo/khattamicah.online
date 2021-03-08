@@ -11,8 +11,8 @@ I hold on to different interests like #music, #movies, #videoessays, #linguistic
 >My dream is to be a great generalist, who keeps a team together, navigates complex situations and co-creates and co-realizes visions for an equitable and sustainable future.
 
 This is list of projects I have worked on
-- [[prj.Designer’s Ace]]
-- [[prj.Speculative Storytelling]]
-- [[prj.Carpooling Unalone - Karwaan]]
-- [[prj.Making Visible something in an RO plant - Water Quality]]
+- [[Designer’s Ace]]
+- [[Speculative Storytelling]]
+- [[Carpooling Unalone - Karwaan]]
+- [[Making Visible something in an RO plant - Water Quality]]
 - [My Art](/art/)
