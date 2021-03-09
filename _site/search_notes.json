@@ -92,6 +92,16 @@
   
     {
 
+      "title"    : "Hi Subscriber",
+      "url"      : "/notes/Hi-Subscriber",
+      "category" : "",
+      "tags"     : "list",
+      "content"  : "you should be seeing this in your feed"
+
+    } ,
+  
+    {
+
       "title"    : "Making The Invisible Visible Around An RO Plant",
       "url"      : "/notes/Making-The-Invisible-Visible-Around-An-RO-Plant",
       "category" : "",

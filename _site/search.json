@@ -76,6 +76,14 @@
   
     {
 
+      "title"    : "Hi Subscriber",
+      "url"      : "/notes/Hi-Subscriber",
+      "content"  : "you should be seeing this in your feed"
+
+    },
+  
+    {
+
       "title"    : "Making The Invisible Visible Around An RO Plant",
       "url"      : "/notes/Making-The-Invisible-Visible-Around-An-RO-Plant",
       "content"  : "We explore while thinking through technology, the unseen costs of RO plants. The technology that is solving the problem of water quality at scale in Karnataka –  might be higher than we think"
