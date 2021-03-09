@@ -1,0 +1,66 @@
+I"0<p>Tools for Academic research that move it beyond its cult of personality to embrace collective science?</p>
+
+<h1 id="annotating-academic-research">Annotating Academic Research</h1>
+<h3 id="present-tools-that-extend-the-capabilities-for-pdf-annotations">Present Tools that extend the capabilities for pdf annotations</h3>
+
+<p><code class="highlighter-rouge">general</code> <code class="highlighter-rouge">notetaking</code></p>
+<ul>
+  <li>https://relanote.com</li>
+  <li>https://www.remnote.io</li>
+  <li>https://roamresearch.com</li>
+  <li>https://github.com/athensresearch/athens <code class="highlighter-rouge">in dev</code></li>
+</ul>
+
+<hr />
+
+<h3 id="annotating">Annotating</h3>
+<ul>
+  <li>https://www.liquidtext.net <code class="highlighter-rouge">Annotation on Text</code></li>
+  <li>https://metal-profuse-arch.glitch.me <code class="highlighter-rouge">experiment</code> <code class="highlighter-rouge">AoI</code></li>
+  <li><a href="https://mirador-dev.netlify.app/__tests__/integration/mirador/">Mirador</a><code class="highlighter-rouge">Annotation on Image</code></li>
+  <li>https://voicethread.com <code class="highlighter-rouge">annotation on video</code></li>
+  <li><a href="https://www.loom.com">Loom</a><code class="highlighter-rouge">Voice annotation on Screengrabbed video</code></li>
+  <li>https://web.hypothes.is</li>
+  <li>https://getmemex.com</li>
+  <li>https://ant.umn.edu/documentation</li>
+  <li>https://frametrail.org/</li>
+  <li>https://chi-lin.com/projects/react-annotation-tool</li>
+  <li>https://medialab.sciencespo.fr/en/tools/
+*</li>
+</ul>
+
+<hr />
+
+<h3 id="mapping-and-prototyping">Mapping and Prototyping</h3>
+<ul>
+  <li>https://littlesis.org/oligrapher <code class="highlighter-rouge">political influence</code></li>
+  <li>https://miro.com <code class="highlighter-rouge">tool</code> <code class="highlighter-rouge">whiteboarding</code> <code class="highlighter-rouge">prototyping</code></li>
+  <li>https://figma.com <code class="highlighter-rouge">prototyping interactions</code></li>
+</ul>
+
+<hr />
+
+<h3 id="potential-directions-and-resources">Potential Directions and Resources</h3>
+<ul>
+  <li>https://github.com/omarcostahamido/awesome-networked-media <code class="highlighter-rouge">networked audio video</code></li>
+  <li>http://giorgialupi.com/bruises-the-data-we-dont-see <code class="highlighter-rouge">other ways that people have opened up data</code></li>
+</ul>
+
+<hr />
+
+<h3 id="in-the-context-of-scientific-research">In the context of Scientific Research</h3>
+
+<p>Other people's thoughts about reimagining the research interface with the public</p>
+
+<ul>
+  <li>https://hal.inria.fr/hal-01169592/document</li>
+  <li>http://worrydream.com/#!/MediaForThinkingTheUnthinkable</li>
+  <li>https://peerj.com/articles/cs-132/</li>
+  <li>https://thomaspark.co/2015/01/pubcss-formatting-academic-publications-in-html-css/ <code class="highlighter-rouge">promising</code></li>
+  <li>https://www.researchgate.net/publication/314279386_The_transformation_of_the_academic_publishing_market_multiple_perspectives_on_innovation</li>
+</ul>
+
+<hr />
+
+<p>tags [[Narratives- Map of Concepts]]</p>
+:ET

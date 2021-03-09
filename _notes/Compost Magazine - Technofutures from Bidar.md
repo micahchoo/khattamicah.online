@@ -4,4 +4,4 @@ tags: project reframe art code
 toc: false
 season: spring
 ---
-https://one.compost.digital/fertile-technofutures-from-bidar/
+<iframe src="https://one.compost.digital/fertile-technofutures-from-bidar/" width="600" height="1000" class="resize-vertical"></iframe>
