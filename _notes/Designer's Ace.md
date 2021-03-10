@@ -4,7 +4,7 @@ tags: portfolio project
 toc: false
 season: spring
 ---
-This was a project https://www.behance.net/gallery/63290189/Designers-Ace from a team of people that were all aspiring to be a part of a design school someday, somewhere.
+This was a [project](https://www.behance.net/gallery/63290189/Designers-Ace) from a team of people that were all aspiring to be a part of a design school someday, somewhere.
 
 It was set of 101 cards designed to build design thinking in young aspirants.
 

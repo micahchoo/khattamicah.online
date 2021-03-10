@@ -30,12 +30,12 @@ These are the clusters that we found:
 
 We decided to observe the environments in which carpooling was working successfully in India. As a result, we soon found out that apps like Quick Ride, Ho Ho rides and Wunder were targeting the IT transport system in Bangalore, encouraging and creating favorable conditions for IT professionals to adopt carpooling while branding their actions as their contribution to a greater environmental good.
 Our interviews and interactions with people commuting as part of IT carpools showed us some factors that were boosting this trend:
-1.Cohort Travel: The ability to travel with people from the same background or same interests as you
-2.Part of corporate culture: Since these services were tied into the IT firms’ operations, adoption was easy for these professionals
-3.Platform tie-ups: Tie-ups of IT firms with carpooling platform adds to the previous factor and makes it easier to use
-4.Common destination: This is also a significant factor, as the destination is fixed, it removes a lot of the negotiation complexity of the carpool
-5.Shared context that is beyond carpooling itself: Since, they are from the same field, they share commonalities that extend beyond the fact that they are in a car together. This is great for a innate trust and better conversations, making the poolers less prone to anxiety and more likely to enjoy the banter.
-6.Regular Commute and Routine times: This factor along with the “Common Destination” factor reduced a lot of the complexity involved in this whole process.
+1. Cohort Travel: The ability to travel with people from the same background or same interests as you
+2. Part of corporate culture: Since these services were tied into the IT firms’ operations, adoption was easy for these professionals
+3. Platform tie-ups: Tie-ups of IT firms with carpooling platform adds to the previous factor and makes it easier to use
+4. Common destination: This is also a significant factor, as the destination is fixed, it removes a lot of the negotiation complexity of the carpool
+5. Shared context that is beyond carpooling itself: Since, they are from the same field, they share commonalities that extend beyond the fact that they are in a car together. This is great for a innate trust and better conversations, making the poolers less prone to anxiety and more likely to enjoy the banter.
+6. Regular Commute and Routine times: This factor along with the “Common Destination” factor reduced a lot of the complexity involved in this whole process.
 This led to a shift in our perspective — as we looked at ‘cohort/community travelling’ as an important component that dominated all the other ambiguous aspects of carpooling. Trust, shared community and culture had to become a part of any system that we designed.
 
 >“We are in for a longer game, we are here to build a culture and community of carpoolers than looking at profitability at the moment”,

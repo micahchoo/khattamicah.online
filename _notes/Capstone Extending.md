@@ -12,7 +12,8 @@ season: autumn
 	* Would domainifying this lead to its remediation
 	* [[Compost Thoughts]] - remdiation in context 1
 	* infrastructuring as meme - remediation in context 2	
-## Paul's thoughts - "The archetypes work well because they can be plugged into different communities. a maintainer in one field looks very differernt in another"
+## Paul's thoughts - 
+"The archetypes work well because they can be plugged into different communities. a maintainer in one field looks very differernt in another"
 
 
 ## Archive
