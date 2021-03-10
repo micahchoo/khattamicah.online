@@ -1,4 +1,10 @@
-{%- if page.permalink == "/" -%}
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+  {%- if page.permalink == "/" -%}
     {%- for item in site.notes -%}
         {%- if item.season == 'summer' -%}
         <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
@@ -71,3 +77,5 @@
 </div>
 {%- endfor -%}
 {%- endif -%}
+  </channel>
+</rss>

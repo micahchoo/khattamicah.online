@@ -1,7 +1,7 @@
 ---
 title: My linktree
 tags: list
-toc: true
+toc: false
 season: spring
 ---
 

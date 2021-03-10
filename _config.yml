@@ -51,3 +51,5 @@ defaults:
     values:
       layout: post
       content-type: notes
+feed:
+    posts_limit: 20
