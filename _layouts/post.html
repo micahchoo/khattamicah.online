@@ -33,7 +33,20 @@
     <![endif]-->
     <!--<link href="/assets/css/prism.css" rel="stylesheet" />-->
     <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+	<script type="application/json" class="js-hypothesis-config">
+			{window.hypothesisConfig = function () {
+				return {
+					"openSidebar": true,
+					"showHighlights":true,
+					"theme": 'clean',
+					services: [{
+					enableShareLinks='true'
+					}],
+				};
+			};
+		</script>
 
+	<script src="https://hypothes.is/embed.js" async></script>
 
 </script>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML" type="text/javascript"></script>
