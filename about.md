@@ -5,10 +5,31 @@ permalink: /about/
 content-type: eg
 ---
 
-Welcome to [[notenote.link::https://github.com/Maxence-L/notenote.link]], a fork of [[Simply Jekyll::https://github.com/raghuveerdotnet/simply-jekyll]]!
+## Hi, My name is Micah
+I might be a designer. Or a researcher? or something else.
 
-I used Obsidian for the last 6 months, to keep track of all of the things I was learning while pivoting my career from Economics to Data Science.
+>My hope is to be a generalist, who navigates complex situations and co-creates and co-realizes visions for an equitable and sustainable future.
 
-200 notes later, I felt that my Obsidian space was getting cramped and I began to yearn for a way to access my notes everywhere. Simply-Jekyll appeared as the most satisfactory tool on the web, as I needed wikilinks, search, LateX, and code highlighting. 
+### Art
+-  [My Art](/art/)
+ 
+### Evergreen Notes
+- [[The Imposter Among Us]]
+- [[Speculative Storytelling in Wayanad]]
+- [[Making The Invisible Visible Around An RO Plant]]
+- [[Compost Magazine - Technofutures from Bidar]]
+	- [[Commoning the Inbetweens- Compost Pitch]]
+- [[The Disenfranchisement of Adivasis in Kerala]]
 
-A little bit of dev work and polishing was need to make it compatible with my Obsidian notes. However, the template is now mature enough, so go on an [[How to setup this site\|give it a try!]]
+### The collectives and people I work with
+
+- [[Living Labs Network and Forum]] - Living Labs is transdisciplinary research network in the Dakkhani Region. We collectively do work with cultural heritage through generative research through the lens of academia-activism.
+	*- I help with admin work, research on ground, talking to partners, tooling, publishing and maintenance*
+- [[Janastu Servelots]] - Janastu Servelots works with Technology for Good and Community Networks. We work to adapt, imagine and renarrate technologies to fit the contexts they are deployed in.
+	*- I help with content writing, illustrations, tooling and running workshops*
+- [[Milli]] - We are working with archives and annotations and developing an open source platform to bring new ways of interacting with archives.
+	*- I work on UI/UX research and design*
+- [[Design Beku]] - Design Beku is a multidisciplinary collective working in the intersections of design, technology, human rights and urban design reimagining new ways of working with care 
+	*- I help with documentation, research work, admin work and maintenance*
+- [[Agamashaala]] - Agamashaala is a art and design collective working with a physical community space in Yelahanka
+	*- I work with content management, process design, admin work and maintenance*

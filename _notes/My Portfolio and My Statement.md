@@ -30,7 +30,7 @@ I might be a designer. Or a researcher? or something else.
 	*- I work on UI/UX research and design*
 - [[Design Beku]] - Design Beku is a multidisciplinary collective working in the intersections of design, technology, human rights and urban design reimagining new ways of working with care 
 	*- I help with documentation, research work, admin work and maintenance*
-- [[Agamashala]] - Agamashaala is a art and design collective working with a physical community space in Yelahanka
+- [[Agamashaala]] - Agamashaala is a art and design collective working with a physical community space in Yelahanka
 	*- I work with content management, process design, admin work and maintenance*
 
 ### Seedling Ideas that you can contribute to
