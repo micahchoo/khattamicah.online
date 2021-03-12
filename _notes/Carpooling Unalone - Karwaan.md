@@ -50,4 +50,4 @@ At the time, we as a team had come up with a prototype which I will link [here](
 However, I came up with my own prototype using Figma, [here](https://www.figma.com/file/lGZklLSlFA2yjPxmcyykud/Karwaan?node-id=1%3A2318)
 
 People Involved: @BaishnabiMonger, @SamarthGupta, @SarojTailor, @AnantKaur, @MicahAlex
-My contribution: #systemdesign, #QualitativeResearch, #marketresearch
+My contribution: System Design, Qualitative Research, Market Research

@@ -1,6 +1,6 @@
 ---
 title: Compost Magazine - Technofutures from Bidar
-tags: project reframe art code
+tags: project reframe art code article
 toc: false
 season: spring
 ---
@@ -13,3 +13,7 @@ We would like to present narratives from the field of possibilities and futures 
 <iframe src="https://one.compost.digital/fertile-technofutures-from-bidar/" width="700" height="1000" class="resize-vertical"></iframe>
 
 This piece was made by talking to network members who were part of the project and talking about what they thought about it now.
+
+
+
+My contribution: Interviews, Writing, Coding, Layout

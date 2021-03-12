@@ -1,6 +1,6 @@
 ---
 title: Worldly Ethics - The democratic ethics of care for worldly things
-tags: bank care
+tags: bank care book
 toc: true
 season: spring
 ---

@@ -1,7 +1,7 @@
 
 ---
 title: ETHNOGRAPHY AND ETHNOGRAPHERS OF AND IN EDUCATION- A SITUATED PERSPECTIVE
-tags: bank
+tags: bank paper
 toc: false
 season: automn
 ---

@@ -47,4 +47,4 @@ Symbol | Archetypes | Our Definitions
 
 
 People Involved: @DarpanaNaik, @KiranSabnis, @Anagha Rewalkar, @VivekShinde, @MicahAlex
-My contribution: #Designtasks, #QualitativeResearch, #Prototyping, #playsystem
+My contribution:  Qualitative Research, Prototyping, Play system, Nomenclature and Typology

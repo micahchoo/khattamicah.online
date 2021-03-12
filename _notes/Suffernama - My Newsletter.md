@@ -2,7 +2,7 @@
 title: Suffernama - My Newsletter
 tags: project
 toc: false
-season: spring
+season: automn
 ---
 ## Chicken Soup for the Miserable Soul
 >when the tough gets going, we get going. or something.

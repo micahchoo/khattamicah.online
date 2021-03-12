@@ -1,6 +1,6 @@
 ---
 title: Dewey and Taoism- Teleology and Art
-tags: bank
+tags: bank paper
 toc: false
 season: winter
 ---
