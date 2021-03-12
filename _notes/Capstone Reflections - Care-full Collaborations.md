@@ -1,10 +1,11 @@
 ---
-title: Thoughts Before the Capstone
-tags: internal reflection
+title: Capstone Reflections - Care-full Collaborations
+tags: internal
 toc: false
 season: spring
 ---
--   The theories of care are many and diverse, I have started to look beyond the repository and the initial set of literature I had found. I started with the various frameworks of care and ethics in practice.
+# Thoughts before the Capstone
+The theories of care are many and diverse, I have started to look beyond the repository and the initial set of literature I had found. I started with the various frameworks of care and ethics in practice.
 -   Through reading [[Worldly Ethics - The democratic ethics of care for worldly things]] and how Ellla Myers has defined the way she is talking about care, I started to do two things, I have started to form an understanding of how different people set apart their notions of care. Annemarie Mol for instance has approached it through the logics of practice. I need to read that in more detail, however, by bringing together a distinction that presupposes process in an established world she is different from Ella inasmuch as I have read. Ella sets it to be a worthy task to set up the world first. She defines the world of care in opposition to the self/other paradigm of care.
 -   Hannah Arendt’s notion of amor mundi, or love of the world. It may be useful to look at the different ways love/something abstract like that has been theorised in more than the terms of self vs others.
 -   She also centers the actions of care and divides the concepts etymologically by separating the caring about and caring for. Is it possible to do this for marathi and malayalam.
@@ -16,7 +17,7 @@ season: spring
 -   Hysallo's [[The Mundane and Strategic Work in Collaborative Design]] is important again with Annemarie's understanding of care and how the routine work is important. I have to start looking at the clusters of care and how that fits with the worlds thing
 
 ## Clusters of care
-   ### Oiling the Wheels
+   ### Oiling the Wheels - Archetypes
         -   The maintainers do the work of keeping things alive. Annemarie talks about this as lot more than just routine(mundane work). It is the understanding that in the \[\[logic of care\]\], things shift and conversations must keep happening. The maintainers keep an attitude of tenacity and adaptibility(AM) and learn to keep trying because the action is the moral activity of care.
         -   The maintainers that I have observed range from Shreyas to Vinay to Dilip to Supriya, from the understanding that the work must continue. As soon as the lockdown was announced, Shreyas got together with Geeta and Supriya in trying to build a website for DLL. It was a process of learning together on various platforms and trying things out.
         -   Design Beku. in a conversation about how the a big designer's collective was running the design equivalent of a hackathon. Naveen said how the long work has to find a home in db after the hackathon. The initial momentum of many of these projects had failed.
@@ -32,3 +33,22 @@ season: spring
         -   Conflicts as a practice of care
    Archiving as a practice
     -   Unforgetting
+	
+	
+# Thoughts about the Capstone - 1 year later
+
+## Does it need to fit into a particular domain
+	* Would domainifying this lead to its remediation
+	* [[Commoning the Inbetweens- Compost Pitch#Reflections and Thoughts on the piece]] - remdiation in context 1
+	* infrastructuring as meme - remediation in context 2	
+## Paul's thoughts - 
+"The archetypes work well because they can be plugged into different communities. a maintainer in one field looks very differernt in another"
+
+
+## Archive
+the first draft is hard to get out and I follow one of two approaches, gardening or planning or some hybrid. 
+The writing process started off with a simple outline which I then followed with a graphic illustration of each of the section. This helped me sort out my metaphors and make a much more expanded outline. 
+After talking to shreyas, I decided to strucure it the way that I would, without academic boundaries. Is there a translation possible between the two?
+Even then my outline is now based the questions, and that allows for a little bit of Non-Linear Storytelling
+
+[[Narratives- Map of Concepts]]

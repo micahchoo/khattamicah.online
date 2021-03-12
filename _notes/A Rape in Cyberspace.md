@@ -2,7 +2,7 @@
 title: A Rape in Cyberspace
 tags: bank essay
 toc: false
-season: automn
+season: winter
 ---
 **Title**: A Rape in Cyberspace
 **Author**: Julian Dibbel

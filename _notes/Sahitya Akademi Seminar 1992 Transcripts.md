@@ -1,6 +1,6 @@
 ---
 title: Sahitya Akademi 1992 Seminar Transcripts
-tags: bank book
+tags: bank book narratives
 toc: false
 season: winter
 ---

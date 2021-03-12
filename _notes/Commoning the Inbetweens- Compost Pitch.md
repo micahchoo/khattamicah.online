@@ -27,3 +27,9 @@ We recently were part of a project to establish a local mesh network to act as a
 - I illustrated the map early on as very flat, and then learnt to use IAM as a reference while bringing out the texture of the land
 - @Siddhant and I then spoke to network members, collecting their thoughts and reflections on the project
 - this is similar to the concept of [dialectograms](http://www.dialectograms.com)
+-  Is [[Compost Magazine - Technofutures from Bidar]] a way of putting [[Capstone Reflections - Care-full Collaborations]] into context
+	* The co-authoring bit comes from archetypes of care
+	* Archetypes come from the roles that people have played in collectives
+	* Does this come closer to co-authoring as the only way a collective puts things out there?
+		* what about the non-humans? Where do they feature
+	* Paul's thoughts - "The archetypes work well because they can be plugged into different communities. a maintainer in one field looks very differernt in another"

@@ -2,7 +2,7 @@
 title: Dewey and Taoism- Teleology and Art
 tags: bank paper
 toc: false
-season: winter
+season: automn
 ---
 
 
@@ -12,7 +12,7 @@ season: winter
 ## Crispin Sartwell
 **Year**: 
 ### 2009
-**Keyword:** Teleology
+**Keyword:** Teleology Being Axioms
 **Link**:  [here](https://www.jstor.org/stable/40263703?Search=yes&resultItemClick=true&searchText=https%3A%2F%2Fwww.jstor.org%2Fstable%2F40263703%3Fseq%3D1&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3Dhttps%253A%252F%252Fwww.jstor.org%252Fstable%252F40263703%253Fseq%253D1%26filter%3D&ab_segments=0%2Fbasic_expensive_solr_cloud%2Fcontrol&refreqid=fastly-default%3A321c6e9f70b187fd3537df4d50cc2803&seq=11#metadata_info_tab_contents)
 
 --------------------------------------
