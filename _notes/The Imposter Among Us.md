@@ -8,9 +8,8 @@ season: spring
 
 🔮 "How do platforms compel/enable the manufacturing of "truth" and "ignorance"? And what does that mean in the context of live-streaming politicians"
 
-*These are notes from a Design Baithak hosted by Micah and Paul*
+>*These are notes from a Design Baithak hosted by Micah and Paul*
 
-*Please read the captions on the links as well*
 
 ---
 

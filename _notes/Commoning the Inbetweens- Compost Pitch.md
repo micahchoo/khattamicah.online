@@ -26,3 +26,4 @@ We recently were part of a project to establish a local mesh network to act as a
 	We needed to do this to enable multiple annotations to appear on the Map.
 - I illustrated the map early on as very flat, and then learnt to use IAM as a reference while bringing out the texture of the land
 - @Siddhant and I then spoke to network members, collecting their thoughts and reflections on the project
+- this is similar to the concept of [dialectograms](http://www.dialectograms.com)

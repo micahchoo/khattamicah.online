@@ -1,3 +1,9 @@
+---
+title: Thoughts Before the Capstone
+tags: internal reflection
+toc: false
+season: spring
+---
 -   The theories of care are many and diverse, I have started to look beyond the repository and the initial set of literature I had found. I started with the various frameworks of care and ethics in practice.
 -   Through reading [[Worldly Ethics - The democratic ethics of care for worldly things]] and how Ellla Myers has defined the way she is talking about care, I started to do two things, I have started to form an understanding of how different people set apart their notions of care. Annemarie Mol for instance has approached it through the logics of practice. I need to read that in more detail, however, by bringing together a distinction that presupposes process in an established world she is different from Ella inasmuch as I have read. Ella sets it to be a worthy task to set up the world first. She defines the world of care in opposition to the self/other paradigm of care.
 -   Hannah Arendt’s notion of amor mundi, or love of the world. It may be useful to look at the different ways love/something abstract like that has been theorised in more than the terms of self vs others.

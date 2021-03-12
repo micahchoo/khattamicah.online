@@ -6,11 +6,21 @@
       {
         "id": "97c22477118e9090",
         "type": "leaf",
+        "dimension": 17.6056338028169,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "a51e873221ad8001",
+        "type": "leaf",
+        "dimension": 82.3943661971831,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trustworthy AI- A Sensory Firewall.md",
+            "file": "The Imposter Among Us.md",
             "mode": "source"
           }
         }
@@ -69,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trustworthy AI- A Sensory Firewall.md",
+                "file": "The Imposter Among Us.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +96,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "The Imposter Among Us.md",
+    "Speculative Storytelling in Wayanad.md",
+    "The Disenfranchisement of Adivasis in Kerala.md",
+    "Landscapes of Transition - A Design Studio in Wayanad.md",
     "Untitled.md",
-    "Condom Ads- A Commentary.md",
-    "Annotating Academic Research.md",
-    "Slide11.jpg",
-    "Designer's Ace.md",
-    "A Rape in Cyberspace.md",
-    "Dewey and Taoism- Teleology and Art.md",
-    "ETHNOGRAPHY AND ETHNOGRAPHERS OF AND IN EDUCATION- A SITUATED PERSPECTIVE.md",
-    "Making The Invisible Visible Around An RO Plant.md",
-    "My linktree.md"
+    "Trustworthy AI- A Sensory Firewall.md",
+    "My Portfolio and My Statement.md",
+    "Names of different Literary Forms from Asia.md",
+    "Narratives- Map of Concepts.md",
+    "Sahitya Akademi Seminar 1992 Transcripts.md"
   ]
 }
