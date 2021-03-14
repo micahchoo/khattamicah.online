@@ -1,6 +1,6 @@
 ---
 title: Compost Magazine - Technofutures from Bidar
-tags: project reframe art code article
+tags: project reframe art code article visualessay
 toc: false
 season: spring
 ---
