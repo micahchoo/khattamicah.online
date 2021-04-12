@@ -22,7 +22,8 @@ with this method is that two people cannot work on the same file together. to so
 12. On Github Desktop, you'll see an option called current branch, open that and create a new branch under your name - this is the branch you will always commit to. it creates a different version of the vault
 13. I'm not sure what a good time to merge is- but i'm hoping that once you look at main and see that there are no new changes to that particular file you have made, you can merge yournamebranch into main
 14. for merging you can see an option under "Current Branch"
-
+---
+15. (From 7) Once installed, Obsidian will ask you if you want to install community plugins, say yes then go to Settings>Community Plugins and switch on all the plugins you use
 # Actions to perform
 1. Commit -> Push to Origin - sends your changes to the web version of your github folder
 2. Fetch Origin - updates your local github folder by copying what new things are there on the web version of the github folder
