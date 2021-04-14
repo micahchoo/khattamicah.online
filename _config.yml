@@ -29,7 +29,7 @@ kramdown:
 sass:
   style: compressed
 
-collections:
+collection:
     notes:
       output: true
       permalink: /notes/:title
