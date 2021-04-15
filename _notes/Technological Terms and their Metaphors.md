@@ -2,6 +2,7 @@
 title: Technological Terms and their Metaphors
 tags: list reframe language
 toc: false
+comments: true
 season: winter
 ---
 * Bug

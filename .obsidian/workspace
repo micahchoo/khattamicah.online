@@ -7,8 +7,11 @@
         "id": "a51e873221ad8001",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_notes/Technological Terms and their Metaphors.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_notes/Technological Terms and their Metaphors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_notes/Technological Terms and their Metaphors.md"
+              }
             }
           }
         ]
@@ -103,6 +109,7 @@
   },
   "active": "a51e873221ad8001",
   "lastOpenFiles": [
+    "_notes/Technological Terms and their Metaphors.md",
     "Carpooling Unalone - Karwaan.md",
     "ETHNOGRAPHY AND ETHNOGRAPHERS OF AND IN EDUCATION- A SITUATED PERSPECTIVE.md",
     "How to use Github to collaborate on Obsidian privately.md",
@@ -111,7 +118,6 @@
     "Untitled.md",
     "How to use Github to collaborate on Obsidian.md",
     "Commoning the Inbetweens- Compost Pitch.md",
-    "Why do we hurt others - A literature review.md",
-    "Innovation For Dummies - A podcast.md"
+    "Why do we hurt others - A literature review.md"
   ]
 }
