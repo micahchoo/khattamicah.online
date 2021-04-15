@@ -85,7 +85,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.0.0)
-  jekyll-feed (~> 0.12)
+  jekyll-feed (~> 0.13)
   jekyll-sitemap
   jekyll-toc
   kramdown

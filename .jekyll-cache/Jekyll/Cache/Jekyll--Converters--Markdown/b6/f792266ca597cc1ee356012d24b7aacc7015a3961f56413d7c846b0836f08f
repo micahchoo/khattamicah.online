@@ -1,0 +1,32 @@
+I"<ol>
+  <li>Create a Github Account (eg. MyGithubsUserName) - this will be shared among your collaborators</li>
+  <li>Create a Private Repository (eg. MyFolderFor_Obsidian)</li>
+  <li>On your local machine open the terminal to the folder where you want to store the notes
+    <ol>
+      <li><a href="https://www.groovypost.com/howto/open-command-window-terminal-window-specific-folder-windows-mac-linux/#:~:text=Go%20to%20the%20folder%20you,directly%20to%20the%20selected%20folder">you can find instructions here</a></li>
+    </ol>
+  </li>
+  <li>Once the terminal is open type in git clone https://MyUserName:MyPasswordfortheaccount@github.com/MyUserName/MyFolderFor_Obsidian.git replace the placeholders i have put with your username password and foldername in github</li>
+  <li>Install <a href="https://desktop.github.com">Github Desktop</a>- only available for Windows and Mac. The other way to do this is through the terminal which I haven't figured out yet</li>
+  <li>Open Obsidian (assuming you have installed it already) - on the left hand bar there should be a "Open a New Vault"</li>
+  <li>There choose "Open folder as Vault" and choose the folder from step 3. This should Create a new folder for notes you want to collaborate on. Just for testing purposes create a new note</li>
+  <li>Open and login to Github Desktop. When it asks to add a repository. Choose "Add an existing Repository" and go to the folder from step 3</li>
+  <li>On the left side you should see the new file you created come up as changes</li>
+  <li>On the top you'll see "Fetch Origin" click that to pull any changes that other have made to the github repository. Do that.</li>
+  <li>If you are satisfied with the changes - On the left you'll see "commit to main". click that with the necessary comments
+    <h3 id="the-problem">the problem</h3>
+    <p>with this method is that two people cannot work on the same file together. to solve this</p>
+  </li>
+  <li>On Github Desktop, you'll see an option called current branch, open that and create a new branch under your name - this is the branch you will always commit to. it creates a different version of the vault</li>
+  <li>I'm not sure what a good time to merge is- but i'm hoping that once you look at main and see that there are no new changes to that particular file you have made, you can merge yournamebranch into main</li>
+  <li>
+    <h2 id="for-merging-you-can-see-an-option-under-current-branch">for merging you can see an option under "Current Branch"</h2>
+  </li>
+  <li>(From 7) Once installed, Obsidian will ask you if you want to install community plugins, say yes then go to Settings&gt;Community Plugins and switch on all the plugins you use
+    <h1 id="actions-to-perform">Actions to perform</h1>
+  </li>
+  <li>Commit -&gt; Push to Origin - sends your changes to the web version of your github folder</li>
+  <li>Fetch Origin - updates your local github folder by copying what new things are there on the web version of the github folder</li>
+  <li>Merge yourbranchname into main -  brings your changes from your branch to the main branch</li>
+</ol>
+:ET

@@ -1,4 +1,5 @@
 title: the sourness of study
+author: Micah Alex
 name: Micah Alex
 user_description: meandering. maintaining. maturing.
 notes_url: "https://khattamicah.online/"
@@ -29,7 +30,7 @@ kramdown:
 sass:
   style: compressed
 
-collection:
+collections:
     notes:
       output: true
       permalink: /notes/:title
