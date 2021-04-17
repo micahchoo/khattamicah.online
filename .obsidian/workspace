@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Technological Terms and their Metaphors.md",
+            "file": "_notes/Updates.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Technological Terms and their Metaphors.md",
+                "file": "_notes/Updates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Technological Terms and their Metaphors.md"
+                "file": "_notes/Updates.md"
               }
             }
           }
@@ -109,15 +109,15 @@
   },
   "active": "a51e873221ad8001",
   "lastOpenFiles": [
+    "_notes/Updates.md",
+    "_notes/Trustworthy AI- A Sensory Firewall.md",
+    "_notes/What is Innovation for India.md",
+    "Untitled.md",
+    "_notes/A Rape in Cyberspace.md",
     "_notes/Technological Terms and their Metaphors.md",
     "Carpooling Unalone - Karwaan.md",
     "ETHNOGRAPHY AND ETHNOGRAPHERS OF AND IN EDUCATION- A SITUATED PERSPECTIVE.md",
     "How to use Github to collaborate on Obsidian privately.md",
-    "Tech Hacks.md",
-    "A Rape in Cyberspace.md",
-    "Untitled.md",
-    "How to use Github to collaborate on Obsidian.md",
-    "Commoning the Inbetweens- Compost Pitch.md",
-    "Why do we hurt others - A literature review.md"
+    "Tech Hacks.md"
   ]
 }
