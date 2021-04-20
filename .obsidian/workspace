@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Updates.md",
+            "file": "_notes/The Disenfranchisement of Adivasis in Kerala.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Updates.md",
+                "file": "_notes/The Disenfranchisement of Adivasis in Kerala.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Updates.md"
+                "file": "_notes/The Disenfranchisement of Adivasis in Kerala.md"
               }
             }
           }
@@ -109,15 +109,15 @@
   },
   "active": "a51e873221ad8001",
   "lastOpenFiles": [
+    "_notes/The Disenfranchisement of Adivasis in Kerala.md",
+    "about.md",
+    "_notes/The Imposter Among Us.md",
     "_notes/Updates.md",
     "_notes/Trustworthy AI- A Sensory Firewall.md",
     "_notes/What is Innovation for India.md",
     "Untitled.md",
     "_notes/A Rape in Cyberspace.md",
     "_notes/Technological Terms and their Metaphors.md",
-    "Carpooling Unalone - Karwaan.md",
-    "ETHNOGRAPHY AND ETHNOGRAPHERS OF AND IN EDUCATION- A SITUATED PERSPECTIVE.md",
-    "How to use Github to collaborate on Obsidian privately.md",
-    "Tech Hacks.md"
+    "Carpooling Unalone - Karwaan.md"
   ]
 }
