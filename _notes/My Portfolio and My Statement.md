@@ -12,7 +12,7 @@ the snippet I give when they ask for a short bio
 -  [My Art](/art/)
  
 ### Evergreen Notes
-- [[The Imposter Among Us]]
+- [The Imposter Among Us](https://khattamicah.online/notes/the-imposter-among-us)
 - [[Speculative Storytelling in Wayanad]]
 - [[Making The Invisible Visible Around An RO Plant]]
 - [[Compost Magazine - Technofutures from Bidar]]
