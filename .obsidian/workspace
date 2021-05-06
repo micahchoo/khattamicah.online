@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/The Disenfranchisement of Adivasis in Kerala.md",
+            "file": "_notes/Tools.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/The Disenfranchisement of Adivasis in Kerala.md",
+                "file": "_notes/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/The Disenfranchisement of Adivasis in Kerala.md"
+                "file": "_notes/Tools.md"
               }
             }
           }
@@ -109,15 +109,15 @@
   },
   "active": "a51e873221ad8001",
   "lastOpenFiles": [
+    "_notes/Tools.md",
+    "_notes/Resources.md",
+    "_notes/Untitled.md",
+    "_notes/Tech Hacks.md",
+    "_notes/My Portfolio and My Statement.md",
+    "Untitled.md",
+    "_notes/Updates.md",
     "_notes/The Disenfranchisement of Adivasis in Kerala.md",
     "about.md",
-    "_notes/The Imposter Among Us.md",
-    "_notes/Updates.md",
-    "_notes/Trustworthy AI- A Sensory Firewall.md",
-    "_notes/What is Innovation for India.md",
-    "Untitled.md",
-    "_notes/A Rape in Cyberspace.md",
-    "_notes/Technological Terms and their Metaphors.md",
-    "Carpooling Unalone - Karwaan.md"
+    "_notes/The Imposter Among Us.md"
   ]
 }
