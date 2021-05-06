@@ -1,5 +1,5 @@
 ---
-title: The Impostor Among Us
+title: The Imposter Among Us
 tags: notes conversation
 toc: true
 season: spring

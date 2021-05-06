@@ -1,6 +1,6 @@
 
 ---
-title: ETHNOGRAPHY AND ETHNOGRAPHERS OF AND IN EDUCATION- A SITUATED PERSPECTIVE
+title: Ethnography and Ethnographers in Education
 tags: bank paper MassAutoEthnography Education
 toc: false
 season: automn

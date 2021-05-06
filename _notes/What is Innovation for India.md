@@ -6,7 +6,7 @@ season: winter
 ---
 
 
-(disclaimer: From 2018. Lots of unsubstantiated claims and I don't agree with quite a few of these anymore and many of these points I can articulate much better now)
+(disclaimer: A piece from 2018. Lots of unsubstantiated claims and I don't agree with quite a few of these anymore and many of these points I can articulate much better now)
 
 ## Scope 
 

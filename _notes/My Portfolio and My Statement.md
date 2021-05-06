@@ -5,9 +5,8 @@ toc: false
 season: summer
 ---
 ## Hi, My name is Micah
-I might be a designer. Or a researcher? or something else.
-
->My hope is to be a generalist, who navigates complex situations and co-creates and co-realizes visions for an equitable and sustainable future.
+the snippet I give when they ask for a short bio
+>[**Micah Alex**](https://khattamicah.online/) (he/him) aspires to be a maintainer among various collectives learning to nurture conversations, efforts and people. He works with these collectives in the domains of open community technology([Janastu,](https://open.janastu.org/)) , human rights in the inclusive digital([Design Beku](https://designbeku.in/)), art-based design practice(Agamashaala), archival, and annotation([Milli](https://www.milli.link/)) and creative place-based research undertaken in the Dakkhani region (Living Labs Network and Forum). He also freelances as a content writer, proofreader, and copywriter.
 
 ### Art
 -  [My Art](/art/)
@@ -17,12 +16,12 @@ I might be a designer. Or a researcher? or something else.
 - [[Speculative Storytelling in Wayanad]]
 - [[Making The Invisible Visible Around An RO Plant]]
 - [[Compost Magazine - Technofutures from Bidar]]
-	- [[Commoning the Inbetweens- Compost Pitch]]
+- [[Commoning the Inbetweens- Compost Pitch]]
 - [[The Disenfranchisement of Adivasis in Kerala]]
 
 ### The collectives and people I work with
 
-- [[Living Labs Network and Forum]] - Living Labs is transdisciplinary research network in the Dakkhani Region. We collectively do work with cultural heritage through generative research through the lens of academia-activism.
+- [[Living Labs Network and Forum]] - Living Labs is transdisciplinary research network in the Dakkhani Region. We collectively engage in a creative place-based research and design practice. Looking for alternative ways to look at development especially through the ideas of specificity and inheritance.
 	*- I help with admin work, research on ground, talking to partners, tooling, publishing and maintenance*
 - [[Janastu Servelots]] - Janastu Servelots works with Technology for Good and Community Networks. We work to adapt, imagine and renarrate technologies to fit the contexts they are deployed in.
 	*- I help with content writing, illustrations, tooling and running workshops*

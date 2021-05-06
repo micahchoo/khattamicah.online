@@ -2,7 +2,7 @@
 title: How to use Github to collaborate on Obsidian privately
 tags: knowledgemanagement
 toc: false
-season: winter
+season: spring
 ---
 
 1. Create a Github Account (eg. MyGithubsUserName) - this will be shared among your collaborators
@@ -28,3 +28,9 @@ with this method is that two people cannot work on the same file together. to so
 1. Commit -> Push to Origin - sends your changes to the web version of your github folder
 2. Fetch Origin - updates your local github folder by copying what new things are there on the web version of the github folder
 3. Merge yourbranchname into main -  brings your changes from your branch to the main branch
+
+# Workflow
+1. after testing, i Think the best way to work with a team is to start every session of writing by fetching from origin in the beginning.
+2. If there is a conflict, stash changes is a good option
+3. While working commit every hour or halfhour
+4. Possibilities: Cron jobs to backup local copy every 5 minutes and every 50 mins and every 48 hours. 
