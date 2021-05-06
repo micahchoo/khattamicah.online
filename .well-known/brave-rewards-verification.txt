@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: khattamicah.online
+Token: c7091d46779b17780a1b877ebd64ce95270d103f0b69c4dc1d7d64e46e17587f
