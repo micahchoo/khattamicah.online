@@ -54,5 +54,5 @@ defaults:
       content-type: notes
 
 feed:
-  path: "feed.xml"
+  path: "feed"
   tags: true
