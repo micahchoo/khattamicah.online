@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/SARS CoV2 Variants.md",
+            "file": "_notes/Resources.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/SARS CoV2 Variants.md",
+                "file": "_notes/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/SARS CoV2 Variants.md"
+                "file": "_notes/Resources.md"
               }
             }
           }
@@ -109,15 +109,15 @@
   },
   "active": "98a21e0bea53b023",
   "lastOpenFiles": [
+    "_notes/Resources.md",
+    "_notes/Tech Hacks.md",
+    "_notes/Updates.md",
+    "_notes/Tools.md",
     "_notes/Untitled.md",
     "_notes/A Rape in Cyberspace.md",
     "about.md",
     "_notes/My Portfolio and My Statement.md",
     "_notes/Making The Invisible Visible Around An RO Plant.md",
-    "_notes/The Imposter Among Us.md",
-    "_notes/The Mundane and Strategic Work in Collaborative Design.md",
-    "_notes/Dewey and Taoism- Teleology and Art.md",
-    "_notes/ETHNOGRAPHY AND ETHNOGRAPHERS OF AND IN EDUCATION- A SITUATED PERSPECTIVE.md",
-    "_notes/Suffernama - My Newsletter.md"
+    "_notes/The Imposter Among Us.md"
   ]
 }
