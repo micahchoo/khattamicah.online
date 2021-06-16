@@ -6,7 +6,7 @@ season: spring
 ---
 
 1. Create a Github Account (eg. MyGithubsUserName) - this will be shared among your collaborators
-2. Create a Private Repository (eg. MyFolderFor_Obsidian)
+2. Create a **Private** Repository (eg. MyFolderFor_Obsidian)
 3. On your local machine open the terminal to the folder where you want to store the notes
 	1.	[you can find instructions here](https://www.groovypost.com/howto/open-command-window-terminal-window-specific-folder-windows-mac-linux/#:~:text=Go%20to%20the%20folder%20you,directly%20to%20the%20selected%20folder)
 4. Once the terminal is open type in git clone https://MyUserName:MyPasswordfortheaccount@github.com/MyUserName/MyFolderFor_Obsidian.git replace the placeholders i have put with your username password and foldername in github

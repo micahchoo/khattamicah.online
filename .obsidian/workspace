@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Resources.md",
+            "file": "_notes/an outline of Community Action Guide.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Resources.md",
+                "file": "_notes/an outline of Community Action Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,11 +96,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Resources.md"
+                "file": "_notes/an outline of Community Action Guide.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,15 +110,15 @@
   },
   "active": "98a21e0bea53b023",
   "lastOpenFiles": [
-    "_notes/Resources.md",
-    "_notes/Tech Hacks.md",
-    "_notes/Updates.md",
-    "_notes/Tools.md",
-    "_notes/Untitled.md",
+    "an outline of Community Action Guide.md",
+    "Checklist we use while selecting tools for our Collectives.md",
     "_notes/A Rape in Cyberspace.md",
-    "about.md",
+    "Untitled.md",
+    "_notes/How to use Github to collaborate on Obsidian privately.md",
     "_notes/My Portfolio and My Statement.md",
-    "_notes/Making The Invisible Visible Around An RO Plant.md",
-    "_notes/The Imposter Among Us.md"
+    "_notes/SARS CoV2 Variants.md",
+    "_notes/Designer's Ace.md",
+    "_notes/Carpooling Unalone - Karwaan.md",
+    "_notes/Why do we hurt others - A literature review.md"
   ]
 }

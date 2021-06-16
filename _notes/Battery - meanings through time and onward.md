@@ -8,7 +8,7 @@ What did the Battery mean? What does it mean now? How have those metaphors chang
 
 <iframe src="http://www.finedictionary.com/battery.html" width="800" height="400" class="resize-vertical"></iframe>
 ## Initial  Clues
-Leyden Jars
+Leyden Jars13
 Military Equipment
 Rams and batteries were the same?
 Crime(?)

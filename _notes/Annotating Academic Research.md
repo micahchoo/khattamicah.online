@@ -8,7 +8,12 @@ season: spring
 Tools for Academic research that move it beyond its cult of personality to embrace collective science? 
 
 # Annotating Academic Research
+
+^fb2d1d
+
 ### Present Tools that extend the capabilities for pdf annotations
+
+^c866f8
 
 `general` `notetaking`
 * https://relanote.com
@@ -24,13 +29,14 @@ Tools for Academic research that move it beyond its cult of personality to embra
 *  [Mirador](https://mirador-dev.netlify.app/__tests__/integration/mirador/)`Annotation on Image`
 * https://voicethread.com `annotation on video`
 * [Loom](https://www.loom.com)`Voice annotation on Screengrabbed video`
-* https://web.hypothes.is
+* [Fetching Title#1kr5](https://web.hypothes.is)
 * https://getmemex.com
 * https://ant.umn.edu/documentation
 * https://frametrail.org/
 * https://chi-lin.com/projects/react-annotation-tool
 * https://medialab.sciencespo.fr/en/tools/
-*
+* https://www.anvil-software.org
+* 
 
 
 
