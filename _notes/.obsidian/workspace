@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Carpooling Unalone - Karwaan.md",
+            "file": "SARS CoV2 Variants.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carpooling Unalone - Karwaan.md",
+                "file": "SARS CoV2 Variants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "a51e873221ad8001",
   "lastOpenFiles": [
+    "SARS CoV2 Variants.md",
+    "Updates.md",
     "Carpooling Unalone - Karwaan.md",
     "ETHNOGRAPHY AND ETHNOGRAPHERS OF AND IN EDUCATION- A SITUATED PERSPECTIVE.md",
     "How to use Github to collaborate on Obsidian privately.md",
@@ -95,8 +97,6 @@
     "A Rape in Cyberspace.md",
     "Untitled.md",
     "How to use Github to collaborate on Obsidian.md",
-    "Commoning the Inbetweens- Compost Pitch.md",
-    "Why do we hurt others - A literature review.md",
-    "Innovation For Dummies - A podcast.md"
+    "Commoning the Inbetweens- Compost Pitch.md"
   ]
 }
