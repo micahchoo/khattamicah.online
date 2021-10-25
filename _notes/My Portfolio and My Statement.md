@@ -1,6 +1,6 @@
 ---
 title: "My Portfolio and My Statement"
-tags: portfolio moc
+tags: internal
 toc: false
 season: summer
 ---
