@@ -2,7 +2,7 @@
 title: SARS CoV2 Variants
 tags: bank notes
 toc: true
-season: spring
+season: winter
 ---
 **Title**: SARS-CoV-2 Variants | UK + South African + Brazil Variants
 **Author**: ninja nerd lectures
