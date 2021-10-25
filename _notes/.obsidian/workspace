@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "How Offline Stores get your Personal Data - A Pattern Library.md",
+            "file": "Carpooling Unalone - Karwaan.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How Offline Stores get your Personal Data - A Pattern Library.md",
+                "file": "Carpooling Unalone - Karwaan.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Carpooling Unalone - Karwaan.md"
+              }
             }
           }
         ],
@@ -105,6 +107,7 @@
   },
   "active": "a51e873221ad8001",
   "lastOpenFiles": [
+    "Carpooling Unalone - Karwaan.md",
     "How Offline Stores get your Personal Data - A Pattern Library.md",
     "Making The Invisible Visible Around An RO Plant.md",
     "Why do we hurt others - A literature review.md",
@@ -113,7 +116,6 @@
     "SARS CoV2 Variants.md",
     "Sahitya Akademi Seminar 1992 Transcripts.md",
     "Names of different Literary Forms from Asia.md",
-    "Resources.md",
-    "My Portfolio and My Statement.md"
+    "Resources.md"
   ]
 }
