@@ -7,7 +7,9 @@
   "page-preview",
   "note-composer",
   "command-palette",
+  "starred",
   "markdown-importer",
+  "outline",
   "word-count",
   "open-with-default-app",
   "file-recovery"

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Making The Invisible Visible Around An RO Plant.md",
+            "file": "How Offline Stores get your Personal Data - A Pattern Library.md",
             "mode": "source"
           }
         }
@@ -47,6 +47,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "28e508076a0b6655",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -68,8 +76,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Making The Invisible Visible Around An RO Plant.md",
-                "collapseAll": false,
+                "file": "How Offline Stores get your Personal Data - A Pattern Library.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -78,8 +86,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "706443870bb2f53d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,9 +105,9 @@
   },
   "active": "a51e873221ad8001",
   "lastOpenFiles": [
+    "How Offline Stores get your Personal Data - A Pattern Library.md",
     "Making The Invisible Visible Around An RO Plant.md",
     "Why do we hurt others - A literature review.md",
-    "How Offline Stores get your Personal Data - A Pattern Library.md",
     "How to use Github to collaborate on Obsidian privately.md",
     "Speculative Storytelling in Wayanad.md",
     "SARS CoV2 Variants.md",
