@@ -9,10 +9,10 @@ season: spring
 How Offline Stores get your Personal Data - A Pattern Library is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
  **Table of Contents**
-```toc
-	style:number
-```
----------
+-   [Nukkad Shop Billing Machine](app://obsidian.md/index.html#Nukkad%20Shop%20Billing%20Machine)
+-   [Medplus](app://obsidian.md/index.html#Medplus)
+-   [QR codes based Menus in Restros and Pubs](app://obsidian.md/index.html#QR%20codes%20based%20Menus%20in%20Restros%20and%20Pubs)
+-   [Chaipoint](app://obsidian.md/index.html#Chaipoint)
 
 #### Nukkad Shop Billing Machine
 I had experiences with these at two places. At place A in bangalore which was inside an isolated gated society and was probably one of the few well-stocked places in a kilometer or two. Place B was on a busy road in a locality with many gated societies nearby. 
